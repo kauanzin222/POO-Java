@@ -21,7 +21,7 @@ Ao longo dos projetos, aplicarei os quatro pilares da POO:
 
 ## 📁 Estrutura de Pastas
 Cada diretório representa um nível de complexidade ou um exercício específico:
-*   `/RevisõesLógica`: Condicional, Repetição, System.out, etc.
+*   `/RevisoesLogica`: Condicional, Repetição, System.out, etc.
 *   `/ConceitosIniciais`: Classes, objetos e atributos.
 *   `/ExercicioPilares`: Implementação prática de herança e interfaces.
 
