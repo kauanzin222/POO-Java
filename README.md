@@ -1,5 +1,6 @@
 # 🎓 Aprendizado de Programação Orientada a Objetos (POO)
-
+![Status](https://img.shields.io/badge/Status-Andamento-yellow)
+---
 Bem-vindo ao meu repositório de estudos! 🚀 Este espaço foi criado para documentar a minha evolução na compreensão da **Programação Orientada a Objetos**, partindo do zero até à implementação dos pilares fundamentais.
 
 ## 📌 Objetivo do Repositório
