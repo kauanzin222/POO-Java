@@ -11,7 +11,7 @@ Este é um projeto estritamente **académico**. O foco é praticar a sintaxe e a
 *   **JDK:** 1.8 (compatível com NetBeans 8.2)
 
 ## 🏗️ Conceitos Explorados
-Ao longo dos projetos, apliquei os quatro pilares da POO:
+Ao longo dos projetos, aplicarei os quatro pilares da POO:
 
 1.  **Encapsulamento** 🔒: Proteção de dados através de modificadores de acesso (getters e setters).
 2.  **Herança** 🧬: Reutilização de código e criação de hierarquias entre classes.
