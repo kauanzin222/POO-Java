@@ -33,7 +33,13 @@ public class Retangulo {
         return (2 * (this.base + this.altura));
     }
 
-    public double calcDiagonal() {      
+    public double calcDiagonal() {
+//        double catAltura = Math.pow(this.getAltura(), 2);;
+//        double catBase = Math.pow(this.getBase(), 2);
+//       
+//        return Math.sqrt(catBase + catAltura);
+      
         return Math.hypot(this.altura, this.base);
     }
 }
+
