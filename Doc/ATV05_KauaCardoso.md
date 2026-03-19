@@ -1,8 +1,8 @@
-# Competências essenciais do Gerente de Projetos 📋
+# Competências essenciais do Gerente de Projetos 
 
   Acredito que meus pontos fracos são: **Liderança, Comunicação e Resolução de Conflitos...**
 
-## Dimensão 1: O que eu sei? 🤔
+## Dimensão 1: O que eu sei? 
 
   - **LIDERANÇA**
 
@@ -22,7 +22,7 @@ acho difícil de largar meu ponto de vista, e quando largo fico frustado e não 
 Crio uma resistência.
 
 ---
-## Dimensão 2: O que eu faço? ✏
+## Dimensão 2: O que eu faço? 
 
   - **LIDERANÇA**  
 
@@ -39,7 +39,7 @@ não conseguir chegar onde quer chegar.
 alguns é pior me intrometer.
 
 ---
-## Dimensão 3: Como devo me comportar? ✔
+## Dimensão 3: Como devo me comportar? 
 
   - **LIDERANÇA**  
 
